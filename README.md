@@ -28,12 +28,3 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 </p>
 
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
